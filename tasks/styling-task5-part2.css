@@ -1,0 +1,23 @@
+body{
+
+background-color: rgb(235, 235, 80);
+
+
+}
+.articles{
+
+display: flex;
+flex-direction: column;
+row-gap: 15px;
+max-width: 1000px;
+
+
+}
+.article1,.article2,.article3{
+background-color: white;
+
+}
+.article3{
+
+    color: red;
+}

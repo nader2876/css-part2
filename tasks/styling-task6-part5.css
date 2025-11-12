@@ -1,0 +1,53 @@
+
+*{       box-sizing: border-box;
+
+}
+
+body{margin: 0;
+}
+.numbers{
+    display: flex;
+    flex-direction: row;
+    flex: 1 0 25%;
+height: 100vh;
+width: 100%;
+border: 5px solid yellow;
+
+}
+.num{
+
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-top: 20px;
+
+}
+.number1{
+    background-color: red;
+}
+.number2{
+    background-color: rgb(187, 255, 0);
+}
+.number3{
+    background-color: rgb(19, 243, 75);
+}
+.number4{
+    background-color: rgb(255, 174, 0);
+}
+.number5{
+    background-color: rgb(15, 250, 238);
+}
+.number6{
+    background-color: rgb(0, 119, 255);
+}
+.number7{
+    background-color: rgb(174, 0, 255);
+}
+.number8{
+    background-color: rgb(255, 0, 55);
+}
+.number9{
+    background-color: red;
+}

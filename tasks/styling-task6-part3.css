@@ -1,0 +1,37 @@
+body{
+  margin: 0; 
+}
+.numbers{
+
+display: grid;
+grid-template-columns: repeat(4,1fr);
+height: 100%;
+width: 100%;
+align-items: center;
+justify-content: center;
+border: 5px solid yellow;
+
+
+}
+.number1{background-color: green;}
+.number2{background-color: blue;}
+
+.number3{background-color: red;}
+.number4{background-color: purple;}
+.number5{background-color: navy;}
+.number6{background-color: orange;}
+.number7{background-color: gray;}
+.number8{background-color: pink;}
+.number9{background-color: darkblue;}
+.number10{background-color: green;}
+
+
+.num{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}

@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.first-part,.second-part{
+
+display: flex;         
+    justify-content: center;   
+    align-items: center;       
+          
+    height: 100vh;             
+    color: white;
+    width: 100%;
+    font-size: 50px;
+
+}
+.first-part{
+    background-color: orange;
+
+}
+.second-part{background-color: blue;}
